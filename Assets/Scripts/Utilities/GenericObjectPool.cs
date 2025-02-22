@@ -20,7 +20,7 @@ namespace CosmicCuration.Utilities
             }
             return CreateNewPooledItem();
         }
-        protected T CreateNewPooledItem()
+        private T CreateNewPooledItem()
         {
             PooledItem<T> newItem = new PooledItem<T>();
             newItem.Item = CreateItem();
