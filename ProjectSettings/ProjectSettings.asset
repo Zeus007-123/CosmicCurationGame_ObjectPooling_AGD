@@ -836,11 +836,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 1e0ffe1c-454a-43e4-975f-e807f88239a2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Space Shooter FREE
-  organizationId: 
+  projectName: CosmicCurationGame_ObjectPooling_AGD
+  organizationId: unity_b30194fa5079eb4cf0d5
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
